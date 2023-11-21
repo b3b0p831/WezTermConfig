@@ -1,7 +1,7 @@
 # WezTermConfig
 My config file for wezterm
 
-Instal: Place file in HOME directory and change to hiden file naming scheme.
+Install: Place file in HOME directory and change to hidden file naming scheme.
 
 ```
 mv wezterm.lua .wezterm.lua
