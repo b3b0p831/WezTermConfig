@@ -4,7 +4,7 @@ My config file for wezterm
 Install: Place file in HOME directory and change to hidden file naming scheme.
 
 ```
-git clone https://github.com/b3b0p831/WezTermConfig/edit/main/README.md
+git clone https://github.com/b3b0p831/WezTermConfig.git
 cd WezTermConfig/
 cp wezterm.lua ~/.wezterm.lua
 ```
