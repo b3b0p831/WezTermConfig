@@ -8,5 +8,5 @@ git clone https://github.com/b3b0p831/WezTermConfig/edit/main/README.md
 cd WezTermConfig/
 cp wezterm.lua ~/.wezterm.lua
 ```
-##Screenshots
+## Screenshots
 ![alt text](imgs/small_window.png)
