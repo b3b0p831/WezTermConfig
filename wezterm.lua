@@ -1,4 +1,5 @@
 -- Pull in the wezterm API
+local OPAQUE_SIZE = 0.85
 local wezterm = require 'wezterm'
 
 -- This table will hold the configuration.
@@ -15,9 +16,9 @@ end
 -- For example, changing the color scheme:
 --config.color_scheme = 'JetBrains Mono'
 config.font_size = 17.0
-config.window_background_opacity = 0.80
-config.window_decorations = "NONE"
-config.text_background_opacity = 0.80
+config.window_background_opacity = OPAQUE_SIZE
+config.window_decorations = "RESIZE"
+config.text_background_opacity = OPAQUE_SIZE
 
 config.use_fancy_tab_bar = false
 config.tab_max_width = 23
