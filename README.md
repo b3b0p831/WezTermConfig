@@ -1,5 +1,5 @@
 # WezTermConfig
-My config file for ![wezterm](https://wezfurlong.org/wezterm/index.html)
+My config file for [wezterm](https://wezfurlong.org/wezterm/index.html)
 
 Install: Place file in HOME directory and change to hidden file naming scheme.
 
